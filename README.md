@@ -1,2 +1,2 @@
 # SVM-OptPerformance
-Algorithms implemented for the submmitted paper "Performance of optimization methods applied to the Support Vector Machine training problem".
+Implementations and results of my Thesis "Performance de métodos de Otimização aplicados ao problema de treinamento de Máquinas de Vetores Suporte".

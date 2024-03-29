@@ -1,4 +1,5 @@
 # SVM-OptPerformance
+<<<<<<< HEAD
 Algorithms implemented for the submmitted paper "Performance of optimization methods applied to the Support Vector Machine training problem".
 Paper: <soon>
 
@@ -10,3 +11,6 @@ Two applications were considered, one based on randomly generated datasets and a
 
 ## Further analysis of the numerical experiments
 [Download PDF](./_results/SurvivalAnalysis_and_PCA-Analysis.pdf)
+=======
+Implementations and results of my Thesis "Performance de métodos de Otimização aplicados ao problema de treinamento de Máquinas de Vetores Suporte".
+>>>>>>> a4c00bd16ab71a223f2efe0d1df4e5d5f0dcf53a
